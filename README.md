@@ -1,25 +1,67 @@
-// Special characters for the function created
+# Project Title : Password Generator
 
-// Write password to the #password input
+## Project Description:
 
-// Prompts that come up after you click generate password with function generatePassword()
+Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but is still _critical_ on your journey as a developer.
 
-// open the window with Text "How many characters long do you want?"
+## Table of Contents
 
-// open the window with Text "Do you want to Include Lower Case Letters?"
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Test](#test)
+- [Questions](#questions)
+- [License](#license)
+- [Author](#Author)
+- [Badges](#badges)
 
-// open the window with Text "Do you want to Include Upper Case Letters?"
+## Installation
 
-// open the window with Text "Do you want to Include Upper Case Letters?"
+Step1: Run npm install and Step2: Run node index.js
 
-// open the window with Text "Do you want to Include Upper Case Letters?"
+## Usage
 
-// this is a minimum count for numbers, lowerCases, upperCases & specialCharacters
+N/A
 
-// Minimum "spaceholder" value for lowerCases, upperCases, numbers & specialCharacters
+## Contributors
 
-//Function to generate "spaceholder" value for lowerCases, upperCases, numbers & specialCharacters
+Robert McKenney, Abdul Amoud and Igor Calvacante
 
-// Acknowledge all the users's selects answer to create the password complexity
+## Test
 
-// to make sure characters are added to the password
+N/A
+
+## Questions
+
+If you have any questions, contact savabel on GitHuba
+## License
+
+MIT License
+
+Copyright (c) [year][fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Author
+
+![GitHub profile pic](https://avatars0.githubusercontent.com/u/60677888?v=4)
+
+## Badges
+
+![badmath](https://img.shields.io/github/repo-size/savabel/https://github.com/savabel/PasswordGenerator)
